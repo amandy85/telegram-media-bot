@@ -52,4 +52,6 @@ Send any valid media URL to your bot
 [![Deploy on PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-Deploy-blue)](https://www.pythonanywhere.com)
 
 ## License 📄
+DISCLAIMER: This software is provided for educational use only. 
+The MIT License terms apply only to the code itself, not to content retrieved using it.
 MIT License - See [LICENSE](LICENSE) for details
