@@ -15,13 +15,17 @@ Downloading copyrighted content without explicit permission may violate platform
 
 # Telegram Media Download Bot 📥
 
-A Telegram bot that downloads media from Instagram, YouTube, and 1000+ other sites.
+A Telegram bot that downloads media from Instagram till now.
+(The project is still under development; there might be some issues. Thank you 🙏)
+
 
 ![Demo](demo.gif) <!-- Add screenshot later -->
 
 ## Features ✨
 - Instagram Reels/Posts download
-- YouTube videos/shorts
+
+## Upcoming Features ✨
+- YouTube videos/shorts 
 - Automatic media type detection
 - Temporary file cleanup
 
