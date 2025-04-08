@@ -17,9 +17,8 @@ Downloading copyrighted content without explicit permission may violate platform
 
 A Telegram bot that downloads media from Instagram till now.
 (The project is still under development; there might be some issues. Thank you 🙏)
+https://t.me/ady85_bot
 
-
-![Demo](demo.gif) <!-- Add screenshot later -->
 
 ## Features ✨
 - Instagram Reels/Posts download
